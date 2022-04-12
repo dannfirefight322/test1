@@ -1,0 +1,3 @@
+DB_NAME=sazooanimals_db
+DB_USER=root
+DB_PASSWORD=D@Nsamm2020
